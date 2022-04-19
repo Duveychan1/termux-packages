@@ -16,6 +16,7 @@ bin/pp-trace
 bin/scan-*
 include/clang*
 include/omp*.h
+lib/clang/*
 lib/clang/*/include/*.h
 lib/clang/*/include/*.modulemap
 lib/clang/*/include/cuda_wrappers/
